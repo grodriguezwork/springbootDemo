@@ -1,0 +1,5 @@
+com\example\service\impl\ExampleServiceImpl.class
+com\example\controller\ExampleController.class
+com\example\entity\Productos.class
+com\example\gaboninja\GaboninjaApplication.class
+com\example\service\ExampleService.class
